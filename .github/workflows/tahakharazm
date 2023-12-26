@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <h1>
+    سلام:Hello
+    </h1>
+    <h1>اینجا زمان را به اینگلیسی میبینی:Here you can see the date in English</h1>
+    <div>
+        <li>زمان:date</li>
+        <input type="date" name="" id="">
+        <li>زمان و تاریخ:datetime</li>
+        <input type="datetime-local" name="" id="">
+        <li>هفته:week</li>
+        <input type="week" name="" id="">
+        <li>ماه:month</li>
+        <input type="month" name="" id="">
+        <li>زمان دلخواه:desired time</li>
+        <input type="time" name="" id="">
+        <h1>طاها قاسمی</h1>
+    
+        
+    </div>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>زمان:date</title>
+</head>
+<body>
+</html>
